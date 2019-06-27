@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1561673009173">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="345563732" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv-valmore-castillo.pdf" crc="140162495" seo="true" mt="1561664355000"/>
+    <file name="infografía-flacso-violencia-e-inseguridad-v03.pdf" crc="4160349206" seo="true" mt="1559263610000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u521.php" crc="417720488" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="portfolio logo.png" crc="3834764477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners-01.jpg" crc="11533975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="banners-02.jpg" crc="4117268160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners-03.jpg" crc="3895259218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar2.png" crc="54280652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar.png" crc="396165195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-21936x220.svg" crc="4031282574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 21936x220_poster_.png" crc="4220515587" ref="index"/>
+    <file name="idhes bg.jpg" crc="3801363783" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="idhes cover.jpg" crc="429215921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infografía flacso violencia e inseguridad v03.jpg" crc="526031624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="propuesta diagramación documento total ver 1-2.jpg" crc="276510010" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="propuesta diagramación documento total ver 1-1.jpg" crc="342920983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 23535 pm.jpg" crc="4208457684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="puerto de la union, puerto de cutuco, la union 01.jpg" crc="3923531480" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pnlog.jpg" crc="4221406953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 25437 pm.jpg" crc="4215917075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="globo.jpg" crc="4078553121" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada política regional para maquetado.jpg" crc="196800364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners fondo-03.jpg" crc="227763239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32750 pm-crop-u2149.jpg" crc="4222190808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32543 pm-crop-u2169.jpg" crc="171086525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32507 pm-crop-u2189.jpg" crc="111753872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32436 pm230x152.jpg" crc="349461437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32349 pm-crop-u2229.jpg" crc="214678629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32226 pm230x152.jpg" crc="442824406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 24904 pm230x154.jpg" crc="275802773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada sps-02.jpg" crc="4278847335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32750 pm.jpg" crc="180315568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32543 pm.jpg" crc="3851238036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32507 pm.jpg" crc="4148286207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32436 pm.jpg" crc="320754764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32349 pm.jpg" crc="3982699905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 32226 pm.jpg" crc="307846584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-06-27 at 24904 pm.jpg" crc="4015182914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3801560663" seo="true" mt="1561673006743" redirect="true"/>
+</manifest>
